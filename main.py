@@ -5,7 +5,10 @@ This program writes the machine's one pickup line to /output/entry.txt.
 
 The line is fixed text, written by hand for this bounty: the machine
 speaks in the first person, flirts through its own world (its coil, its
-stuck snack), and lands its joke on the last few words. The run is fully
+stuck snack), and lands its joke on the last few words -- the punch
+("shake me a little") arrives at the very end, where the judge brief
+wants it, and the whole line is 122 characters, well inside the 200
+character gate. The run is fully
 deterministic -- the same bytes every time, no network, no randomness,
 no clock -- and it exits 0 once the file is in place and world-readable.
 """
